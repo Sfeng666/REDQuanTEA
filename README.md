@@ -193,13 +193,13 @@ bash workflow/scripts/run_plot_sample_structure_comparison.sh \
 
 ## Citation
 
-If you use REDQuanTEA, please cite:
+If you use REDQuanTEA, please cite the preprint:
 
-> Feng, S., & Pool, J. E. (in preparation). *REDQuanTEA: Replication-Enhanced Detection of Quantitative Traits Evolving Adaptively*. Laboratory of Genetics, University of Wisconsin-Madison.
+> Feng, S., & Pool, J. E. (2026). *Replication-Enhanced Detection of Quantitative Traits Evolving Adaptively (REDQuanTEA): an improved statistical framework to detect locally adaptive traits*. bioRxiv. https://doi.org/10.64898/2026.08.31.748449
 
-Until the paper is published, you may also cite this repository:
+You may also cite the software:
 
-> Feng, S., & Pool, J. E. (2026). *REDQuanTEA* [Software]. GitHub. https://github.com/sfeng666/REDQuanTEA
+> Feng, S., & Pool, J. E. (2026). *REDQuanTEA* [Computer software]. GitHub. https://github.com/Sfeng666/REDQuanTEA
 
 ## License
 

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the preprint below."
+type: software
+title: "REDQuanTEA"
+authors:
+  - family-names: Feng
+    given-names: Siyuan
+  - family-names: Pool
+    given-names: "John E."
+url: "https://github.com/Sfeng666/REDQuanTEA"
+repository-code: "https://github.com/Sfeng666/REDQuanTEA"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Replication-Enhanced Detection of Quantitative Traits Evolving Adaptively (REDQuanTEA): an improved statistical framework to detect locally adaptive traits"
+  authors:
+    - family-names: Feng
+      given-names: Siyuan
+    - family-names: Pool
+      given-names: "John E."
+  year: 2026
+  month: 9
+  day: 4
+  journal: bioRxiv
+  doi: 10.64898/2026.08.31.748449
+  url: "https://www.biorxiv.org/content/10.64898/2026.08.31.748449v1"
