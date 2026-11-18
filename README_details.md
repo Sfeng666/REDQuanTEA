@@ -160,10 +160,12 @@ snakemake evaluate_all --configfile config/config_evaluate_full.yaml --cores 16
 
 | Combination | Description |
 |-------------|-------------|
-| `QST,ratioVbetweenVtotal` | Q<sub>ST</sub> + V<sub>among</sub>/(V<sub>among</sub>+V<sub>within</sub>+V<sub>E</sub>) (default benchmark combo) |
+| `QST,ratioVbetweenVtotal` | Q<sub>ST</sub> and V<sub>GB</sub>/(V<sub>G</sub> + V<sub>E</sub>) (default) |
 | `QST,ratioVext` | Q<sub>ST</sub> + V<sub>E</sub>/V<sub>G</sub> ratio |
 | `QST,ext_sd` | Q<sub>ST</sub> + extrinsic SD |
 | `QST` | Q<sub>ST</sub> only |
+
+Here V<sub>G</sub> = (V<sub>GB</sub> + 2V<sub>W</sub>)/2. V<sub>GB</sub> and V<sub>W</sub> are the between- and within-population genetic variances, respectively, and V<sub>E</sub> is the extrinsic variance.
 
 ---
 
